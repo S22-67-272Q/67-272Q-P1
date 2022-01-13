@@ -19,9 +19,9 @@ If you have questions regarding the turn-in of this project or problems download
 
 [Entity-Relation Model for the Baking Outlet](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/gpbo_erd.pdf)
 
-[High-Level Use Case Template](https://github.com/S22-67-272Q/67-272Q-P1/tree/main/templates)
+[High-Level Use Case Template](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/HL_use_cases_template.doc)
 
-[Use Cases Defined (from class)]()
+[Use Cases Defined (from class)](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/use_cases_defined.txt)
 
 [Additional details about sales tax in the US](https://github.com/S22-67-272Q/67-272Q-P1/tree/main/additional_details)
 
