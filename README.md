@@ -15,14 +15,14 @@ If you have questions regarding the turn-in of this project or problems download
 
 ##### Additional Information and Supporting Materials:
 
-[Case Narrative for the Baking Outlet]()
+[Case Narrative for the Baking Outlet](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/baking_outlet_narrative.pdf)
 
-[Entity-Relation Model for the Baking Outlet]()
+[Entity-Relation Model for the Baking Outlet](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/gpbo_erd.pdf)
 
-[High-Level Use Case Template]()
+[High-Level Use Case Template](https://github.com/S22-67-272Q/67-272Q-P1/tree/main/templates)
 
 [Use Cases Defined (from class)]()
 
-[Additional details about sales tax in the US]()
+[Additional details about sales tax in the US](https://github.com/S22-67-272Q/67-272Q-P1/tree/main/additional_details)
 
 
